@@ -1,8 +1,8 @@
 # **Big Data**
 ## Home Sales Analysis with Spark
----
+
 ## Intro to Big Data
----
+
 
 Big data refers to a large amount
 of structured, unstructured, or
@@ -12,13 +12,13 @@ accuracy, and that needs to be
 processed at a high capacity. Big data is a collection of data that is so large in size and complexity that none of traditional data management tools can store or process it efficiently.
 
 ## Intro to Apache Spark
----
+
 
 Apache Spark is a data-processing engine for large data sets. It is designed to deliver the speed, scalability, and programmability required for Big Data, machine learning, and artificial intelligence applications.
 Earlier tools for handling massive amounts of data were slow. The AMPLab at UC Berkeley came up with the idea of storing data in Resilien Distributed Datasets(RDDs) and using memory instead of disk space. That improved the speed by 100 times. AMPLab  later donated Spark to the Apache Software Foundation - which now maintains it. That is why it is now called Apache Spark.
 
 ## Report
----
+
 ### Procedure
 Using SparkSQL, we read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
